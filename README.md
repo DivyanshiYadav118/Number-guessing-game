@@ -1,1 +1,1 @@
-# Number-guessing-game
+# NUMBER-GUESSING-GAME
